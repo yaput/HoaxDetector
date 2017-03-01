@@ -2,6 +2,7 @@ import urllib2 as ul
 from bs4 import BeautifulSoup
 import re, os, json
 
+#class for extract news from URL
 class Extraction(object):
     def __init__(self, url):
         req = ul.Request(url)
