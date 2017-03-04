@@ -1,6 +1,9 @@
+import json
+import re
 import urllib2 as ul
+
 from bs4 import BeautifulSoup
-import re, os, json
+
 
 #class for extract news from URL
 class Extraction(object):
@@ -61,7 +64,7 @@ class Extraction(object):
         percentage = 0.00
         for item in source:
             print item
-            request = ul.Request(item.replace(',','').replace('_&_','').replace('?',''))
+            request = ul.Request(item.replace(',','').replace('_&_','').replace('?','').replace('+','').replace('*',''))
             response = ul.urlopen(request)
             page = response.read()
             soup1 = BeautifulSoup(page, "html.parser")
