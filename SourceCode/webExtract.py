@@ -60,18 +60,16 @@ class Extraction(object):
         error = 0
         percentage = 0.00
         for item in source:
-            try:
-                request = ul.Request(item.replace('\n', ''))
-                response = ul.urlopen(request)
-                page = response.read()
-                soup1 = BeautifulSoup(page, "html.parser")
-                fName = "news/berita"+str(counter)+".txt"
-                write = open(fName, 'w')
-                write.write(soup1.find('article').text)
-                write.close()
-            except:
-                error+=1
-
+            print item
+            request = ul.Request(item.replace(',','').replace('_&_','').replace('?',''))
+            response = ul.urlopen(request)
+            page = response.read()
+            soup1 = BeautifulSoup(page, "html.parser")
+            #fName = "news/berita"+str(counter)+".txt"
+            #write = open(fName, 'w')
+            #write.write(soup1.find('article').text.encode('utf-8').strip())
+            #write.close()
+            response.close()
             counter+=1
 
             percentage = float(counter)/float(length)*100.00
