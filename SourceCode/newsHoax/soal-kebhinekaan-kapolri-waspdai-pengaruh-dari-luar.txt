@@ -1,0 +1,34 @@
+Rabu, 11 Jumadil Akhir 1438 H / 21 Desember 2016 10:27 wib  2.004 views
+
+
+Soal Kebhinekaan, Kapolri: Waspdai Pengaruh dari Luar
+JAKARTA (voa-islam.com)- Beberapa belakangan ini isu tergerusnya kebhinekaan menjadi buah bibir di kalangan umum, tidak terkecuali sampai ke Kapolri Tito Karnavian.
+Dalam kesempatannya sebagai pembicara di Universitas Negeri Jakarta (UNJ), misalnya Tito berpesan agar tidak terjadi demikian maka kebhinekaan yang ada sejak lama agar diperbaharui. Pasalnya, kebhinekaan akan terus mendapat pengaruh dari manapun.
+
+"Kebhinekaan kita itu harus terus di-update. Sebab kebhinekaan atau keberagaman ini sangat dipengaruhi faktor internal, juga termasuk pengaruh dari eksternal," katanya, Senin (19/12/2016), di Jakarta.
+
+Faktor yang mempunyai pengaruh kuat menurut Tito adalah yang datang dari dalam. Bahkan faktor ini dapat mengakibatkan konflik.
+"Permasalahan internal yang membuat kelas menengah menjadi kecil itu karena didominasi kelas bawah sendiri. Dan ini relatik kan menyebabkan konflik.
+Namun, faktor eksternal juga harus kita waspadai," jelasnya.
+Bagi Tito, soal kebangsaan itu sangat dinamis. Tidak datar atau tidak monoton seperti yang digambarkan.
+"Kebangsaan kita itu sangatlah dinamis. Tidaklah statis," tutupnya. (Robi/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Jaksa Sebut Isi Buku yang Ditulis Ahok Justru Timbulkan Perpecahan Bangsa
+Beralasan Ada Acara, Tidak Ada Anggota DPRD Jabar yang Temui Massa Aksi Solidaritas untuk Aleppo
+Tidak Laku, Sari Roti Diasongkan di Gerbang Tol
+Dirjen Imigrasi: Sepanjang 2016, Sudah 1,3 Juta Warga China Masuk ke Indonesia
+GP Ansor Kembali Jaga Gereja Sukseskan Perayaan Natal
+Kapolres Bekasi dan Kulonprogo Ditegur Kapolri karena Edarkan Surat Soal Atribut Natal
+WNA Serbu Indonesia, WN China Urutan Satu yang Paling Banyak Melakukan Pelanggaran Hukum
+Jokowi Tandatangani PP 59/2016 tentang WNA Bisa Dirikan Ormas

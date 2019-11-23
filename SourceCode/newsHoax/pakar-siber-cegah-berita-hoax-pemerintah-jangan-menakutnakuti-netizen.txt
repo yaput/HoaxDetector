@@ -1,0 +1,27 @@
+Ahad, 11 Jumadil Akhir 1438 H / 8 Januari 2017 06:41 wib  5.251 views
+
+
+Pakar Siber: Cegah Berita Hoax, Pemerintah Jangan Menakut-nakuti Netizen
+ 
+JAKARTA (voa-islam)--Upaya pemerintah mencegah penyebaran berita hoax di media sosial dengan pendekatan ancaman pidana atau pemblokiran  sepihak pada netizen dinilai tidak tepat oleh pakar keamanan siber, Pratama Pershada.Menurutnya, cara represif seperti itu malah akan menimbulkan reaksi balik masyarakat berupa perlawanan."Tidak bisa mencegah berita hoax dengan menakut-nakuti netizen atau masyarakat. Sebab, nanti bukannya mematuhi pemerintah, masyarakat malah akan menentang," katanya kepada wartawan, Kamis kemarin (5/1/2017).Sebab, lanjutnya, masyarakat akan merasa dizalimi dan resah bila dihadapkan cara-cara represif. Pratama sendiri, mengusulkan agar pemerintah melakukan pendekatan yang lunak melalui kampanye sosialisasi di media atau media sosial. "Pemerintah cukup melakukan sosialisasi dengan membuat iklan di radio dan televisi mainstream menjelaskan bahayanya hoax," ucapnya.Chairman lembaga riset keamanan cyber CISSReC (Communication and Information System Security Research Center) ini yakin metode tersebut dapat efektif mencegah berita hoax. Karena, satu orang saja menentang atau membongkar hoax suatu informasi yang beredar, sangat berpengaruh besar di media sosial.
+"Melawan hoax signifikan akibatnya, cuma sayangnya sebagian besar masyarakat malas mengcounter informasi yang beredar," cetusnya.Pratama juga mengingatkan agar masyarakat berhati-hati, sebab, revisi Undang-Undang ITE terbaru akan menjerat siapa saja penyebar berita hoax dengan ancaman kurungan 6 tahun."Yang diancam pidana bukan hanya pembuat hoax akan tetapi juga penyebarnya atau menshare bisa terkena pidana," ucapnya.Pratama menegaskan kembali, pendekatan ancaman pidana tersebut kepada penyebar berita hoax tidak efisien, karena penyebaran berita hoax sangat masif dan dilakukan hampir oleh seluruh masyarakat pengguna internet. "Kalau mau dipenjara, berapa banyak orang yang akan dipenjara karena menyebarkan berita hoax. Nanti penjara bisa overload," tegasnya.Sebelumnya, Pratama sendiri sepakat dengan upaya memberantas beredarnya berita hoax di dunia maya. Karena, menurutnya, perkembangan hoax bukan lagi ditujukan untuk seseorang atau organisasi, tapi sudah ditujukan untuk meresahkan masyarakat. "Ini yang harus menjadi perhatian aparat kepolisian. Sebab, saat ini masyarakat Indonesia sudah pintar membuat hoax, dengan disertai link-link seolah-olah fakta dan dibumbui jadilah seakan-akan kebenaran," ujarnya.Hal inilah, sambung Pratama, harus dicegah pemerintah dengan melakukan sosialisasi ke netizen. Namun sayangnya, kata Pratama pemerintah belum maksimal melakukan sosialisasi anti berita hoax.* [Bilal/Syaf/voa-islam]
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Indonesia Protes Keras Pengibaran Bendera OPM di KJRI Melbourne
+RZ Mengaku Buat Pohon Natal Berlafaz Allah Sebagai Bentuk Protes kepada Pemilik Hotel Novita
+Komnas HAM Minta Dibentuk Tim Independen untuk Telusuri Sejarah Identitas Jokowi
+Fraksi PKS Tolak Kenaikan Harga BBM dan TDL
+Untuk Hasilkan Pemilu Jujur di DKI, KPU Diminta Buka Akses Form C1 ke Publik
+Gugatan Warga Bukit Duri Menang di PTUN Bukti Kebijakan Ahok Abnormal
+Ancam Bom Pondok Pesantren, Kader PDIP Ditangkap Polisi
+Indef: Kenaikan Tarif STNK dan BPKB Sebaiknya Dilakukan Bertahap

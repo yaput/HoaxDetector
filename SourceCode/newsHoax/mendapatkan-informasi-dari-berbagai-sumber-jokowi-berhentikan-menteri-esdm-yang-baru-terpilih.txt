@@ -1,0 +1,25 @@
+Senin, 12 Jumadil Akhir 1438 H / 15 Agutus 2016 21:31 wib  1.911 views
+
+
+Mendapatkan Informasi dari Berbagai Sumber, Jokowi Berhentikan Menteri ESDM yang Baru Terpilih
+JAKARTA (voa-islam.com) - Presiden Joko Widodo mengambil langkah terkait polemik kepemilikan paspor Amerika Serikat (AS) milik Menteri ESDM Arcandra Tahar. Jokowi memberhentikan Arcandra."Presiden memutuskan untuk memberhentikan dengan hormat saudara Arcandra Tahar dari posisi menteri ESDM," ujar Mensesneg Pratikno dalam konferensi pers di Istana Merdeka, Senin (15/8/2016).Pratikno mengatakan, keputusan ini diambil oleh Presiden Jokowi setelah menyimak dinamika yang ada. Presiden juga sudah mendapatkan informasi dari berbagai sumber."Setelah memperoleh informasi dari berbagai sumber," kata Pratikno.Dalam konferensi pers ini, Pratikno didampingi oleh Jubir Kepresidenan Johan Budi. [detik/syahid/voa-islam.com]
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Kasus Paspor Menteri ESDM, Mahfud MD Teringat Kasus Imigrasi Ustadz Abu Bakar Baasyir
+Ahok Tidak Pantas menjadi Gubernur karena Ingkar Ucapan Soal Cuti untuk Masa Kampanye
+Soal Aset DKI Terbengkalai, Pengamat: Ahok Tidak Layak sebagai Gubernur
+Banyak Dugaan Kuat Ahok Tersandung Korupsi, tapi Belum Satupun Temui Titik Terang
+DKI Tidak Menjaga Asetnya, Temuan BPK Tidak Ditindaklanjuti?
+Maimon Herawati: Banyak Media Massa Memihak kepada Pemodal
+Aset DKI di Bawah Ahok Kian Terancam Dinikmati Pihak Lain
+Tidak Ingin Kembali Bermasalah seperti Sumber Waras, Kadin Pertamanan DKI Kabarnya Dicopot Ahok

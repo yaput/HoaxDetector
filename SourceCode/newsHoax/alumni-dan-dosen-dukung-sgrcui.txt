@@ -1,0 +1,29 @@
+Senin, 13 Jumadil Akhir 1438 H / 25 Januari 2016 20:31 wib  2.879 views
+
+
+Alumni dan Dosen Dukung SGRC-UI
+JAKARTA (voa-islam.com)- LGBT Peer Support Network gagasan SGRC-UI (Support Group and Resource Center on Sexuality Studies, University of Indonesia) berdalih bahwa pesan yang dibawa oleh komunitas ini bertujuan untuk mendukung lesbi, gay, biseksual, dan transgender.
+“Anggapan tersebut salah, karena kami meyakini bahwa seksualitas merupakan hak individu, dan tugas kami hanya memberikan pengetahuan terkait isu tersebut,” demikian penjelasan mereka melalui laman sgrcui.wordpress.com.
+SGRC-UI mengaku bukan komunitas kencan atau tempat mencari jodoh bagi kelompok LGBT. SGRC-UI merupakan kelompok kajian yang membahas isu gender dan seksualitas secara luas. Feminisme, hak tubuh, patriarki, gerakan pria, buruh dan wanita, kesehatan reproduksi, serta isu-isu lain yang terkait dengan gender dan seksualitas merupakan fokus kajian kami.
+Mereka juga menolak jika lokus kajian SGRC-UI yang sangat luas dikerdilkan dengan menyebut SGRC-UI sebagai komunitas LGBT. Kelompok kajian SGRC-UI memiliki struktur organisasi yang jelas, mission statement, dan timeline kegiatan.
+“Kami bukan Unit Kegiatan Mahasiswa (UKM), dan tidak berencana untuk menjadi UKM. Pendiri dan anggota SGRC-UI merupakan mahasiswa, alumni, serta dosen dari Universitas Indonesia. Kegiatan kami juga berbasis di wilayah kampus Universitas Indonesia. Poin inilah yang menjelaskan kenapa kami menggunakan UI di dalam nama komunitas kami.” (Robigusta Suryanto/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Jangan Heran Bila Seks dengan Binatang Dianggap Biasa oleh Orang Liberal
+Soal LGBT, FPI: Indonesia Negeri Berketuhanan, Bukan Negeri Pemuja Setan
+Kaum LGBT Tidak Bertuhan, Menteri: Ingat, Indonesia Itu Menjunjung Sila Pertama
+Pengingkar Tuhan Lewat Pancasila, FPI akan Lawan Penyakit LGBT
+Proyek Kereta Cepat Hasilkan Utang ke Cucu-cucu Masyarakat Indonesia
+Yusril: Proyek Kereta Cepat Gagal, maka Siap-siap Empat BUMN Ditelan Cina
+Revisi UU Terorisme, Siapa yang Tidak Akui NKRI Akan Ditindak
+Pengamat: Mengajarkan Shalat Lima Waktu di Masjid Itu adalah Radikal, Apa Itu yang Dilarang?!

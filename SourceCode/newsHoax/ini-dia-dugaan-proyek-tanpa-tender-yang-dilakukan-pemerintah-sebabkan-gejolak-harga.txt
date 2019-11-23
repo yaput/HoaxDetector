@@ -1,0 +1,30 @@
+Selasa, 12 Jumadil Akhir 1438 H / 16 Agutus 2016 05:37 wib  2.384 views
+
+
+Ini Dia Dugaan Proyek tanpa Tender yang Dilakukan Pemerintah yang Sebabkan Gejolak Harga
+JAKARTA (voa-islam.com) - Mungkin saja benar, jika dalam pengadaan barang/jasa pemerintah menggunakkan "tunjuk" langsung tanpa adanya lelang ataupun tender.
+"Seperti dalam proses pengadaan/pembangunan Kabel Laut Medan-Lhoksumawe Sabang no justifikasi Tel354/LG000/PND.A100000/2016 dengan nilai Capex sekitar 268 milyar yang akan dilakukan dengan penunjukan langsung kepada konsorsium BSCS-M yang merupakan konsorsium TelkomInfra (anak perusahaan) dengan PT. Bina Nusantara  Perkasa/BNP," demikian siaran pers dari Haris Rusly, beberapa waktu lalu yang didapat voa-islam.com.
+Menurutnya, setidak lebih dari 3 proyek pemerintah diduga menunjuk langsung untuk mengimplementasikannya. "Ada sekitar 4 proyek pengadaan pembangunan kabel laut yang saat ini  sedang dalam proses pengadaan yang berpotensi penunjukan langsung seperti halnya proyek Kabel Laut Sabang-Lhoksemawe-Medan di atas.
+Di antaranya rencana pembangunan kabel laut Balikpapan-Sangatta-Talisayan-Tarakan-Nunukan sepanjang 1161 KM dengan nilai capex Rp.493 M saat ini dengan proses persetujuan Dir NITS/ secara dokumen). Penunjukan langsung kepada konsorsium yang sesungguhnya kapasitasnya sudah dipergunakan untuk pekerjaan pemeliharaan, sehingga dapat berakibat tidak dapat terselesaikannya pekerjaan secara tepat waktu atau kewajiban pemeliharaannya tidak terpenuhi sesuai kontrak."
+Akibat penunjukan dalam belanja modal Telkom dan Tsel melalui anak perusahaan secara langsung, menurutnya telah membuat Telkom  kehilangan opportunity harga yang lebih murah sebab masih ada eligible vendor lainnya yang dapat melakukan pekeraan seperti NEC.
+Lalu penambahan jalur-jalur kabel laut yang baru tidak dilakukan melalui proses perencanaan yang matang sehingga berpotensi tumpang tindihnya penggunaan capex untuk mendapatkan suatu konfigurasi jaringan telekomunikasi yang ideal secara bisnis yang pada akhirnya meningkatkan laba. Telkom dan Tsel. [robi/voa-islam.com]
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Pengamat: Para Kartel dan Mafia Duduk Nyaman karena Ada Perlindungan dari Istana
+Ada Rekayasa yang Dibangun untuk Berangus APBN di Era Jokowi?
+Mendapatkan Informasi dari Berbagai Sumber, Jokowi Berhentikan Menteri ESDM yang Baru Terpilih
+Kasus Paspor Menteri ESDM, Mahfud MD Teringat Kasus Imigrasi Ustadz Abu Bakar Baasyir
+Ahok Tidak Pantas menjadi Gubernur karena Ingkar Ucapan Soal Cuti untuk Masa Kampanye
+Soal Aset DKI Terbengkalai, Pengamat: Ahok Tidak Layak sebagai Gubernur
+Banyak Dugaan Kuat Ahok Tersandung Korupsi, tapi Belum Satupun Temui Titik Terang
+DKI Tidak Menjaga Asetnya, Temuan BPK Tidak Ditindaklanjuti?

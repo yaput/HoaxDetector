@@ -1,0 +1,32 @@
+Selasa, 11 Jumadil Akhir 1438 H / 7 Februari 2017 14:38 wib  2.568 views
+
+
+Inilah Sisi Negatif Quick Count pada Pilkada Menurut Guru Besar Statistika IPB
+ JAKARTA (voa-islam.com)--Guru Besar Statistika Institut Pertanian Bogor (IPB) Prof Dr Khairil Anwar Notodiputro menerangkan bahwa quick country (hitung cepat) yang dilakukan oleh lembaga-lembaga survei pada momen Pilkada maupun Pilpres tidak perlu ada jika KPU memiliki sistem software yang canggih.
+Menurut Khairil, selama ini quick count berpotensi disalahgunakan oleh pihak tertentu. "Quick count itu ada sisi negatifnya. Berbahaya jika quick count ini digunakan untuk menekan KPUD," jelas Khairil dalam diskusi Membedah Metode Quick Count pada Pilkada 2017 di Hotel Sofyan yang diselenggarakan Grup Riset Potensial (GRP), Senin (6/2/2017) lalu.
+Selanjutnya, kata Khairil, quick count ini juga berbahaya jika diperjualbelikan kepada pasangan calon kepala daerah.
+"Metode quick count ini kadang hanya mengambil sampel pada kantung-kantung suara satu paslon tertentu," ujar Khairil.
+Menurut Khairil, quick count ini sejatinya bukanlah hasil akhir seperti sensus, melainkan sebuah sampel yang belum pasti akurasinya.
+Menanggapi Khairil, KPU DKI Jakarta menegaskan akan mengutamakan hasil perhitungan keseluruhan dari TPS dibanding hasil quick count. “Kami tetap real count. Jadi, kami mendata berita acara C1 dari semua TPS pada Pilkada nanti,” ujar Dahlia Umar, Komisioner KPU DKI Jakarta pada kesempatan yang sama.
+Menurutnya, KPU memiliki sistem dalam melakukan perhitungan sehingga tak terpengaruuh hasil hitung cepat lembaga survei. “KPU punya sistem untuk real count, terus menghitung secara bertahap dan terus menerus sampai selesai 100 persen. Hasilnya kemudian bisa dilihat secara online dalam waktu 24 jam,” tambahnya.
+Mengenai hasil hitung cepat yang dirilis lembaga survei, ia menyerahkan pada masyarakat. “Hasil lembaga survei sama tau beda, masyarakat yang menilai,” katanya. * [Syaf/voa-islam.com]
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Bukan Hoax, Tokoh Politik Ini Siap Beri Kesaksian Soal KTP Ganda/Palsu
+Lihat Masjid di Tengah Reruntuhan Kampung Akuarium, Anies Sholat Tahiyatul Masjid
+Perpolitikan Saat Ini Sedang Kacau karena Rezim Jokowi Pemalas
+Antisipasi Kecurangan, Cagub DKI Ini Percayakan kepada RT/RW
+Hasil Survei: Habib Rizieq Masuk Lima Besar Capres Terpopuler
+Kiai Ma'ruf sebagai Saksi Disudutkan Ahok dan Timnya Bagian yang Terencana
+GP Ansor Sebut Kelakuan Ahok ke Ketua MUI Tidak Cerminkan Harmonisasi
+Kuasa Hukum MUI Tantang Ahok & Kuasa Hukum Tunjukkan Bukti yang Dituduhkan ke Kiai Ma'ruf

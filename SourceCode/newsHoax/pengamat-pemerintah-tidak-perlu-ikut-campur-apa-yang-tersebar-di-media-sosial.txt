@@ -1,0 +1,33 @@
+Ahad, 11 Jumadil Akhir 1438 H / 8 Januari 2017 16:59 wib  4.628 views
+
+
+Pengamat: Pemerintah Tidak Perlu Ikut Campur Apa yang Tersebar di Media Sosial
+JAKARTA (voa-islam.com)- Pemerintah yang sibuk mengurus media sosial selain dianggap terlalu ikut mencampuri privasi umum juga terlalu berlebihan jika dianggap menakutkan.
+Pun termasuk salah satu politisi PDIP yang menyebutkan bahwa informasi yang tengah beredar di masyarakat adalah hal biasa. Menurutnya itu hal yang dapat diselesaikan di antara mereka (di media sosial).
+
+"Yang jelas info atau berita hoax itu bukan darurat. Itu hanya publik mengekspresikan. Biarkanlah publik pula yang menyelesaikannya," kata Effendi Simbolon, Sabtu (7/01/2017), di Cikini, Jakarta.
+
+Menurut Effendi masih banyak yang perlu pemerintah perhatikan. Misalkan saja ia menyebut bahwa saat ini lembaga atau kementerian cukup banyak. Hal ini menurutnya berbeda dari negara-negara maju. Sebut saja Malaysia.
+"Harus urus yang lain. Lihat saja Kementerian kita aja paling banyak di antara negara-negara lain. Dan tidak perlulah mengurus-urus hoax di publik," tambahnya.
+Jikapun dianggap sebarkan berita bohong atau apapun, ia pun mengatakan jangan pemerintah ikut-ikutan. Jikapun ingin demikian Kominfo mesti berkaca diri.
+"Jika dikatakan bohong, fitnah, biarkan saja mereka yang mendadukan. Tidak perlu pemerintah ikut campur dan mengaturnya di media sosial. Justru kenapa Kominfo dahulu ajukan revisi? Ajukan revisi pun hanya satu Pasal saja. Itupun malah mengurangi hukuman yang tidak menjadi 5 tahun," tutupnya. (Robi/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Pemerintah Dinilai Berlebihan Blokir dan Reaktif terhadap Media Online
+Dugaan Hoax Muncul dan Dipermasalahkan karena di Pemerintahan Banyak Penjilat
+Pakar Siber: Cegah Berita Hoax, Pemerintah Jangan Menakut-nakuti Netizen
+Indonesia Protes Keras Pengibaran Bendera OPM di KJRI Melbourne
+RZ Mengaku Buat Pohon Natal Berlafaz Allah Sebagai Bentuk Protes kepada Pemilik Hotel Novita
+Komnas HAM Minta Dibentuk Tim Independen untuk Telusuri Sejarah Identitas Jokowi
+Fraksi PKS Tolak Kenaikan Harga BBM dan TDL
+Untuk Hasilkan Pemilu Jujur di DKI, KPU Diminta Buka Akses Form C1 ke Publik

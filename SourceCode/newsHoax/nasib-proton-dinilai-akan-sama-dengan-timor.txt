@@ -1,0 +1,27 @@
+Ahad, 13 Jumadil Akhir 1438 H / 15 Februari 2015 08:30 wib  4.327 views
+
+
+Nasib Proton Dinilai Akan Sama Dengan Timor
+JAKARTA (voa-islam.com) - Nasib mobil Proton buatan Malaysia diprediksi akan sama dengan mobil Timor buatan Korea Selatan, jika nanti dijadikan sebagai mobil nasional (Mobnas) oleh Presiden Jokowi.
+Menurut pengamat transportasi, Darmaningtyas, seandainya Proton akan menyasar pangsa pasar Indonesia, belum tentu akan menguntungkan, lantaran belum ada bukti pasaran mobil Proton di Indonesia cukup prospektif.  "Sudah terbukti Taxi yang memakai mobil Proton tidak bisa berkembang dan harga jualnya juga rendah, sehingga kurang menarik bagi orang Indonesia," ujar mantan aktivis mahasiswa Yogyakarta era 1980-an tersebut.  Menurutnya, hal yang sama juga pernah dialami oleh produksi mobil buatan dalam negeri. Sebelumnya di era Orde baru dulu, produsen mobil dalam negeri belum mampu meraup untung di negaranya sendiri.  "Kami juga sudah punya pengalaman beberapa kali, seperti misalnya mobil Timor dulu juga kurang peminat, meskipun dijual dengan harga murah. Motor buatan China juga sempat melambung di awal tahun 2000, karena harganya kompetitif, tapi karena kualitasnya jelek dan harga purna jualnya juga rendah, akhirnya menghilang begitu saja," tegasnya. [Abul Halim/Voa-Islam.Com/dbs]
+image: viva
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Soal Mobnas Proton, Tommy Suharto Terus Kritik Presiden Jokowi
+Minyak Dunia dan Rupiah Kacau, Rezim Jokowi-JK Malah Cari Pinjaman Rp 280 Triliun
+Politisi PDIP Effendi Simbolon Sebut Jokowi Penganut Paham Liberal
+Kalau Tak Krasan di Kepala Banteng, Jokowi Dipersilakan Naik Garuda
+Ustadz Bachtiar Nasir Protes Hilangnya Kata 'Ketuhanan Yang Maha Esa' di 7 Risalah KUI
+BNPB: Jakarta Semakin Ringkih Hadapi Banjir
+Catatan 100 Hari Kinerja Menag: Siapkan Regulasi ''Open Recruitmen''
+Pengelolaan Ekonomi Negara Salah Kaprah, Nilai Tukar Rupiah Amburadul

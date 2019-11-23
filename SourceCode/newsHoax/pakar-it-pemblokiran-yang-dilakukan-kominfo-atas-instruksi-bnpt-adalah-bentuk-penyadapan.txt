@@ -1,0 +1,32 @@
+Sabtu, 13 Jumadil Akhir 1438 H / 4 April 2015 14:25 wib  1.196 views
+
+
+Pakar IT: Pemblokiran yang Dilakukan Kominfo Atas Instruksi BNPT Adalah Bentuk Penyadapan
+JAKARTA (Voa-Islam)- Pakar IT Indonesia Onno W Purbo kembali mengkritisi apa yang dilakukan oleh Kominfo terhadap situs-situs media Islam yang diblokir. Ia menyebut, bahwa apa yang dilakukan oleh Kominfo atas “suruhan” BNPT hingga saat ini sebagai salah satu tindakan untuk melakukan proses penyadapan.
+“Sebelum adanya pemblokiran ada yang namanya penyadapan. Ini proses awal,” katanya saat bincang-bincang dengan wartawan Voa-Islam.com di gedung Kemenkominfo beberapa waktu lalu.
+Namun demikian, jika benar pemerintah melakukan penyadapan terhadap situs media Islam, BNPT dan Kominfo telah melanggar aturan yang berlaku. Sebab, di Kominfo sendiri bila ingin melakukan proses penyadapan harus ada keputusan dari pengadilan.
+“Ya, Kominfo telah melanggar peraturan yang dibuatnya sendiri,” jelasnya. Dan ia menambahkan, jika tidak ada keputusan dari pengadilan, tentunya pemerintah dapat dikatakan menggunakan sistem otoriter.
+Onno menyebutkan mengapa Kominfo mengikuti instruksi BNPT untuk melakukan pemblokiran. Salah satunya adalah karena kedua lembaga tersebut ingin mengetahui ke mana paket-paket ini meluncur. Atau lebih tepatnya ia mengatakan situs yang diblokir “berafiliasi” ke mana.
+“Dilakukan penyadapan karena kedua lembaga tersebut ingin mengetahui paket-paket yang diblokir ‘mengarah’ ke mana,” ucapnya.
+Akan tetapi, Pakar IT ini tetap saja menghimbau agar Kominfo membuka kembali situs-situs yang diblokir. Alasannya, selain tidak ada ketukan palu dari persidangan, Kominfo juga tidak mempunyai alasan yang pasti sebab kriteria yang dimiliki Kominfo tidak ada. “Seharusnya ada mekanisme atau kriteria. Misalnya saja melalui uji publik,” tegasnya.
+Hingga saat berita ini ditulis, beberapa media Islam yang diblokir oleh pemerintah masih ada yang belum dapat diakses. Terdaftar resmi ada 22 situs media Islam yang dilakukan pemblokiran. (Robigusta Suryanto/Voa-Islam)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Situs OPM Bebas Diakses, Anggota DPR RI: Pemerintah Seharusnya Memblokir
+Salam Gigit Jari, Wahai Rakyat Miskin Indonesia!
+Mahasiswa dari Berbagai Daerah Terus Bergerak, Tuntut Jokowi Turun
+Tarif Kereta Api Naik 60 Persen, Hidup Rakyat Tambah Sengsara
+Inilah Sejumlah 'Prestasi Besar' Jokowi Sejak Dilantik versi ISIS   
+Kemenag Tidak Tahu Atas Alasan Apa BNPT Blokir Media-media Islam
+Dinilai Tidak Amanah dan Galau, GMNI Tangerang Tuntut Jokowi Mundur
+Demo Menolak Kenaikan BBM, Markas HMI Jakarta Kembali Diserang Polisi

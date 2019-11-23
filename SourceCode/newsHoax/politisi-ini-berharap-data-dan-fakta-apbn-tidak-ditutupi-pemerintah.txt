@@ -1,0 +1,32 @@
+Senin, 12 Jumadil Akhir 1438 H / 19 September 2016 21:11 wib  2.473 views
+
+
+Politisi Ini Berharap Data dan Fakta APBN Tidak Ditutupi Pemerintah
+JAKARTA (voa-islam.com)- Defisitnya keuangan Indonesia, dan hadirnya laman Keuangan RI yang tidak update dipertanyakan oleh salah satu politisi Indonesia. Menurutnya, sebagai contoh, data-data realisasi APBN yang seharusnya terus diperbaharui tetapi dari bulan lalu laman itu tidak tampak.
+
+"Saya mau tanya, akun @KemenkeuRI, kenapa data realisasi APBN di portal suah tidak di-update sejak bulan lalu?" tanya kader PD, Ikhsan Modjo dalam akun Twitter pribadinya.
+
+Dengan kurangnya update dari lama milik Kementerian Keuangan tersebut, ia berharap tidak ada hal-hal yang ditutupi dari masyarakat. Jika hal demikian dilakukan, maka hal yang tidak mungkin dari itu akan terjadi.
+"Semoga bukan karena mau menutup-nutupi fakta dan realisasi APBN yang ada. Nanti juga pasti ketauan, dan malah jadi blunder. @KemenkeuRI."
+Sebagaimana yang diketahui bahwa anggaran saat ini mengalami defisit karena kebijakan belanja yang terlalu tinggi. Padahal penerimaan pajak, di satu sisi tidak cuku signifikan.
+Dan untuk menutupinya itu, mau tidak mau Indonesia kembali berutang. (Robi/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Rusun Mengkhawatirkan, Wakil Ketua DPR: Kebiadaban Ahok Harus Dihentikan
+Reklamasi Teluk Jakarta Dilanjutkan, Alfian Tanjung: Ini Noktah Kental Pemerintah Jokowi
+Ecek-ecek Disikat, Sumber Waras Dipertanyakan, Mantan Staff Khusus SBY Usul: KPK Dibubarkan Saja
+Wakil Ketua MPR: KPK Jangan Tebang Pilih Bongkar Kasus Korupsi
+Mantan Menteri Ini Ingatkan Keras Luhut B Panjaitan agar Tidak Ikut Hasrat Ahok Soal Reklamasi
+Bamus Betawi Itu Dapat Legal dari Mendagri, Ahok Jangan Seenaknya Ributkan Soal Dana
+Politisi Himbau Masyarakat DKI Tidak Memilih Pemimpin yang Bermasalah seperti Ahok
+Proyek Reklamasi Lanjut, DPP IMM: Ini Pengkhianatan Konstitusi

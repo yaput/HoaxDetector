@@ -1,0 +1,33 @@
+Kamis, 11 Jumadil Akhir 1438 H / 9 Februari 2017 21:11 wib  3.299 views
+
+
+Barcode Dewan Pers Berpotensi Monopoli Informasi dan Batasi Kebebasan
+JAKARTA (voa-islam.com)- Belasan organisasi dan komunitas memberikan responnya terkait barcode yang dicanangkan oleh Dewan Pers. Dan kesemuanya menolak apa yang ingin diterapkan oleh Dewan Pers tersebut.
+Menurut mereka melalui undangan konferensi persnya, Dewan Pers jika menerapkan hal itu maka akan berpeluang membungkam kebebasan berpendapat. Dan barcode itu pun dikritisi karena akan menjadi persoalan ketimpangan bagi media besar atas kuasanya terhadap media kecil.
+
+“Kami, perwakilan media komunitas/alternatif, pers mahasiswa, buruh media, dan masyarakat sipil pro-demokrasi menyatakan keberatan pada penerapan barcode. 
+
+Kami menganggap barcode rentan membatasi ruang kebebasan pers. Penerapan barcode juga berpeluang membuka besar kemungkinan implementasi yang salah (termasuk membungkam kebebasan berekspresi yang sah) atas UU ITE (versi revisi) pasal 40 dan Permen Kemkominfo no 19/2014 karena menganggap perusahan pers besar yang layak mendapatkan perlindungan,” demikian undangan tertulisnya yang didapat voa-islam.com.
+Mereka juga menilai bahwa penerapan barcode yang digagas oleh Dewan Pers tersebut akan berpotensi monopoli terhadap informasi. Seharusnya banyak hal yang mesti diperbaiki oleh Dewan Pers, bukan justru mengurus hal-hal yang tidak masuk subtstansi pemberitaan.
+“Kami menolak adanya hoax, menolak ujaran kebencian dan memperjuangkan Kode Etik Jurnalistik (KEJ), namun menyerahkan barcode yang kemudian dibirokratisasikan akan menjadikan barcode sebagai arah menuju monopoli informasi. Banyak hal-hal lain yang harus diperjuangkan dalam verifikasi media selain barcode, seperti apakah media ini punya serikat pekerja, menggaji secara layak jurnalisnya.”
+Belasan organisasi dan komunitas yang menolak keberatan barcode tersebut yakni di antaranya: Sindikasi ( Serikat Pekerja Media dan Industri Kreatif untuk Demokrasi), FSPM ( Federasi Serikat Pekerja Media) independen, LBH pers, APPI ( Aliansi Pemuda Pekerja Indonesia), dan Indoprogress. Juga ada Matinyala.com, Forum Pers Mahasiswa Jakarta (FPMJ), Islam Bergerak, ICT Watch, Yayasan Lembaga Bantuan Hukum Indonesia (YLBHI), SAFENET (Southeast Asia Freedom of Expression), Koperasi Riset Purusha, berdikarionline.com, dan lainnya. (Robi/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Komite Mahasiswa Raya Tuntut Jokowi Mundur jika Tidak Dapat Netral di Pilkada DKI
+Kelakuan Rezim Saat Ini: Tidak Mengerti, Tidak Mampu Lawan Skenario, atau Memang Kejam?
+FPI Protes Sosialisasi KPU Babel Dengan Goyang Seronok Dangdut didepan Anak-anak
+Pemerintah Diperingatkan agar Tidak Mudah Menghukum Masyarakat yang Berseberangan
+Politisi Golkar Sayangkan Pemerintah Ciptakan Konflik Politik Baru Demi Bela Ahok
+Jasa Penyebar Brosur Dapatkan Materi Kampanye Hitam dari Doni
+Sebar Brosur Kampanye Hitam Terhadap Anies Sandi, 4 Pelaku Diamankan
+Tidak Berhentikan Ahok, Mendagri Dinilai Ingkar Konstitusi, Ini Landasan Hukumnya

@@ -1,0 +1,32 @@
+Jum'at, 11 Jumadil Akhir 1438 H / 3 Maret 2017 13:23 wib  17.516 views
+
+
+Soal Pilgub, Anggota DPR: Gereja Ingatkan Tidak Pilih Paslon Muslim
+JAKARTA (voa-islam.com)- Salah satu anggota DPR RI menyatakan bahwa di Pilgub DKI 2017, gereja-gereja yang ada telah mengingatkan kepada jemaatnya agar memilih sesuai keyakinannya.
+
+"Di gereja-gereja, dalam pidatonya mereka mengingatkan agar 'jangan lupa'. Mereka tidak peduli siapa yang menang DKI, asal bukan orang Islam," kata Muhammad (Romo) Syafii, Kamis (2/3/2017), di Gedung Juang, Jakarta.
+
+Umat Islam yang telah mengetahui hal itu ia himbau agar tidak takut untuk meng-counter pidato-pidato tersebut, khususnya di masjid-masjid untuk mengingatkan jamaah.
+"Ketua DKM yang ada jangan pernah takut terkena pinalti isu SARA sebab menyuarakan memilih pemimpin muslim (Islam). Umat Islam memang kenyataannya haram memilih pemimpin yang bukan seagama," himbaunya.
+Menurutnya, umat Islam harus mengetahui bahwa apa yang diyakini soal memilih pemimpin adalah bagian dari ibadah. Tidak hanya itu, ia menyatakan bahwa hal itu pun dilindungi oleh UU.
+"Memilih sesuai agama kita itu dilindungi Pasal 29, yakni untuk beribadah menurut keyakinan kita. Bagi kita tentu hal itu kan ibadah karena sesuai keyakinan. Itu sesuai dengan UU," jelasnya. (Robi/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+Kedatangan Raja Salman Merupakan Shock Therapy kepada yang Anti Islam dan Anti Arab
+Sekum PP Muhammadiyah: Umat Islam Merasa Tidak Mendapat Tempat Sebagaimana Mestinya
+Ribuan Mengadu ke Komnas HAM, Jakarta Tempati Posisi Teratas
+Kemenlu RI Tentukan Ormas Islam Mana yang Bertemu Raja Salman
+Raja Salman akan Beri Bantuan kepada Sekolah yang Mengajarkan Bahasa Arab
+Ajukan Gugatan ke MK, Paslon PDIP, Rano-Embay Tidak Siap Kalah?
+Ahok Akan Sambut Raja Salman Bareng Jokowi di Halim
+Tak Disalami Habib Rizieq Seusai Sidang, Kuasa Hukum Ahok Baper?

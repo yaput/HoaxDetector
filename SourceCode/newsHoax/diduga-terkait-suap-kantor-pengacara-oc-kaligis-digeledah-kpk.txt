@@ -1,0 +1,29 @@
+Senin, 13 Jumadil Akhir 1438 H / 13 Juli 2015 21:00 wib  2.786 views
+
+
+Diduga Terkait Suap, Kantor Pengacara OC Kaligis Digeledah KPK
+JAKARTA (voa-islam.com)- Hari ini, Senin (13/07/2015) Komisi Pemberantasan Korupsi (KPK) menggeledah kantor pengacara kondang OC Kaligis yang beralamat di jalan Majapahit, Jakarta Pusat. Penggeledahan terkait kasus dugaan suap hakim Pengadilan Tata Usaha Negara di Medan (PTUN).
+"Hari ini kita lakukan penggeledahan di kantor OC Kaligis," demikian kata Plt Pimpinan KPK Johan Budi seperti yang dikutip dari Republika, di gedung KPK.
+Johan mengatakan, penggeledahan yang dilakukan di kantor advokad senior itu dilakukan lantaran diduga ada dokumen terkait jejak tersangka dalam kasus ini. Johan tidak menjelaskan keterkaitan OC Kaligis dalam kasus ini.
+Namun, pengacara kondang itu telah dicegah bepergian ke luar negeri. Salah satu tersangka, M. Yagari Bhastara Guntur alias Gery diketahui bekerja di kantor milik OC Kaligis.
+Selain Kaligis, lima orang lainnya juga telah dicegah. Mereka adalah Julius Irawansyah Mawarji, Yulinda Tri Ayuni, Yeni Oktarinan Misnan, Gatot Pujo Nugroho dan Evi Susanti. (Robigusta Suryanto/voa-islam.com)
+
+
+Sebarkan informasi ini, semoga menjadi amal sholeh kita!
+
+
+
+
+var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = 'http://www.voa-islam.com/assets/css/printfriendly.css';var pfBtVersion='1';(function(){var js, pf;pf = document.createElement('script');pf.type = 'text/javascript';if('https:' == document.location.protocol){js='https://pf-cdn.printfriendly.com/ssl/main.js'}else{js='http://cdn.printfriendly.com/printfriendly.js'}pf.src=js;document.getElementsByTagName('head')[0].appendChild(pf)})();
+
+
+Berita Politik Indonesia lainnya:
+
+12 Fakta Hasil Temuan BPK Soal Penyimpangan Keuangan oleh Ahok
+Ekonomi Terjun Bebas, NKRI Berpotensi Bubar di Tangan Joko Widodo
+Agar Tidak Hilang Wibawa, DPD RI Sarankan Presiden Benahi Kinerjanya
+Dibekuk! Elit Partai Nasdem Terlibat Korupsi & Narkoba
+Ratusan Orang Berseragam Hitam Serang Markas Brimop Semarang Barat
+Ingin Maju, Ini yang Harus Dilakukan Panglima TNI Gatot Nurmantyo
+Menko Polhukam Tedjo Edy : Dua Pilot Angkatan Laut Bergabung Dengan ISIS
+Jubir Mabes Polri: Dukung ISIS Adalah Hak Pribadi, Tak Bisa Dijerat dengan UU Anti-Terorisme
